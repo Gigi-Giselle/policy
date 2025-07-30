@@ -2,7 +2,7 @@
 
 ## Health and Safety
 
-Global Code takes volunteers to West Africa for three weeks every July, to teach students at universities how to be software engineers.
+Global Code takes volunteers to West Africa for three weeks every summer, to teach students at universities how to be software engineers.
 
 We are a charity registered in the UK, number 1176504
 
@@ -17,8 +17,8 @@ We work in labs in universities in Ghana. Whilst the lab spaces are relatively m
 3. Cabling
 You might be responsible for setting up our hardware. The Raspberry Pi computers that we use are low-power, but make sure there are no dangling cables for people to trip over. If you’re using your own laptop, please make sure that it’s plugged in securely with no dangling cables.
 4. Cars
-Global Code asks host universities to provide transport to and from the airport, and for a class trip. If you take a private taxi into town, you’re on your own. Our insurance doesn’t cover vehicle accidents and the cars in Ghana and Nigeria are not held to anywhere near the standards you’d expect in the UK. Please be careful.
+Global Code asks host universities to provide transport to and from the airport, and for a class trip. If you take a private taxi into town, you’re on your own. Our insurance doesn’t cover vehicle accidents and the cars in Ghana are not held to anywhere near the standards you’d expect in the UK. Please be careful.
 5. Streets and pavements
-Road surfaces might be damaged or might not exist. Pavements are often simply concrete covers over drains, and are sometimes broken or cracked. The pedestrian right-of-way might not exist. Drivers may not be licensed. 
+Road surfaces might be damaged or might not exist. Please be careful when walking on pavements or on streets and look out for cracks so as not to trip. Drivers may not be licensed. 
 6. Weather
 Ghana is a tropical country and so is exposed to extremes of climate. Prepare for both hot and wet weather. The weather can change dramatically and without warning, and paths and roads will become slippery. Please make sure you’re wearing appropriate footwear.
